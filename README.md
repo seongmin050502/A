@@ -1,0 +1,1 @@
+This repository is an exercise repository for learning distributed version management system git/github mungryeong, Linux commands, and more in open-source programming classes in 2024.
